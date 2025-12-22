@@ -1,0 +1,12 @@
+.abc{
+    width: 180px;
+    height :90px;
+    font-size: large;
+    border-color: darkred ;
+    font-style: bold;
+    border-style: dashed;
+    padding: 5px;
+    border-width: 12px solid black ;
+    max-width: fit-content;
+
+}
